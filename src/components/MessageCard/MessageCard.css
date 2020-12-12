@@ -1,0 +1,13 @@
+.messageCard {
+    background-color: greenyellow;
+    word-wrap: break-word;
+    border-radius: 5px;
+    right: 50%;
+    margin: 10px;
+    width: 150px;
+}
+
+.sent {
+    margin-left: 85%;
+    background-color: pink !important;
+}
